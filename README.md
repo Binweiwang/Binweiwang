@@ -1,6 +1,7 @@
 
 ### Hola, soy Binwei 👋
 
+<div align=center><img width="50%" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></div>
 
 ¡Bienvenido a mi GitHub! Soy un desarrollador apasionado, especializado en tecnologías de frontend y backend. Aunque aún no cuento con experiencia laboral profesional, estoy constantemente explorando y aprendiendo más en el vasto mundo del desarrollo de software.
 
@@ -10,9 +11,6 @@
 - 🤔 Busco orientación y consejos sobre tecnologías avanzadas y patrones de diseño para desarrollar aplicaciones eficientemente.
 - 💬 Pregúntame sobre desarrollo web, tanto frontend como backend. Estoy más que feliz de compartir mi conocimiento y experiencia.
 - 📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub o conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/wang-binwei-a5226829a/).
-
-<div align=center><img width="50%" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></div>
-
 
 ### Tecnologías y herramientas:
 
