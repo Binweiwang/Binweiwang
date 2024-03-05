@@ -15,6 +15,6 @@
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
 - **Backend**: Java, Spring Boot, NestJS, PHP, Laravel
-- **Otros intereses**: Video juegos, Deportes , Entrenamiento.
+- **Otros intereses**: Videojuegos, Deportes , Entrenamiento.
 
 A pesar de mi falta de experiencia laboral, estoy siempre abierto a discutir sobre tecnologías y proyectos innovadores. ¡No dudes en contactarme si quieres colaborar en algo emocionante!
