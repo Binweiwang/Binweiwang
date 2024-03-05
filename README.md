@@ -11,7 +11,7 @@
 - 👯 Estoy interesado en colaborar en proyectos interesantes que desafíen mis habilidades y me ofrezcan la oportunidad de aportar con mi aprendizaje en desarrollo.
 - 🤔 Busco orientación y consejos sobre tecnologías avanzadas y patrones de diseño para desarrollar aplicaciones eficientemente.
 - 💬 Pregúntame sobre desarrollo web, tanto frontend como backend. Estoy más que feliz de compartir mi conocimiento y experiencia.
-- 📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub o conectarte conmigo a través de [LinkedIn](#).
+- 📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub o conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/wang-binwei-a5226829a/).
 - 😄 Pronombres: Él/Ello.
 - ⚡ Dato curioso: Vengo de China y tengo una gran pasión por explorar la intersección entre la cultura y la tecnología.
 
