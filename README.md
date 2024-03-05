@@ -12,13 +12,11 @@
 - 🤔 Busco orientación y consejos sobre tecnologías avanzadas y patrones de diseño para desarrollar aplicaciones eficientemente.
 - 💬 Pregúntame sobre desarrollo web, tanto frontend como backend. Estoy más que feliz de compartir mi conocimiento y experiencia.
 - 📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub o conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/wang-binwei-a5226829a/).
-- 😄 Pronombres: Él/Ello.
-- ⚡ Dato curioso: Vengo de China y tengo una gran pasión por explorar la intersección entre la cultura y la tecnología.
 
 ### Tecnologías y herramientas:
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js
 - **Backend**: Java, Spring Boot, NestJS, PHP, Laravel
-- **Otros intereses**: Aprendizaje automático, desarrollo de videojuegos, inteligencia artificial.
+- **Otros intereses**: Video juegos, Deportes , Entrenamiento.
 
 A pesar de mi falta de experiencia laboral, estoy siempre abierto a discutir sobre tecnologías y proyectos innovadores. ¡No dudes en contactarme si quieres colaborar en algo emocionante!
